@@ -1,0 +1,11 @@
+The words were pulled off a database of common words with 2, 3, 4, 5, 6, and 7 letters.
+The words were, then sorted.
+Since you are not allowed to use single letter words in scrabble I did not add them to the dictionary.
+However, I did allow for names(e.g. JOSH, JOSEPH).
+
+The first 1000 trays/racks I generated randomly.
+The next 19 I generated using a program that would find trays that had a maximum point score equal to 7,
+but at the same time made sure "HOSE" were the first 4 characters. There was a total of 54 of them,
+but I only used 19. :P
+The last 2 I pulled from the sample input. Notice how the answer is different from the sample output.
+Ooooh Aaaaah.
